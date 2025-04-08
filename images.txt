@@ -13,5 +13,6 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
-mongo:4.4
+#mongo:4.4
+docker.n8n.io/n8nio/n8n:latest
 
